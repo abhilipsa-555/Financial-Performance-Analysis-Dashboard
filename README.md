@@ -70,16 +70,16 @@ Revenue % = Net Sales / Overall Net Sales
 ## 📷 Dashboard Preview  
 
 ### 🔹 YTD Dashboard  
-![YTD Dashboard](YTD%20Dashboard.jpeg)  
-![YTD Dashboard](YTD%20Dashboard-1.jpeg)
+![YTD Dashboard](https://drive.google.com/file/d/1SArEwgQ4VaRH4-S8CRwk0dcrPZCnsHN3/view?usp=drive_link) 
+![YTD Dashboard](https://drive.google.com/file/d/1Ay_iwH1ZTWfXbjdOcIuanRx3Fv_r26P3/view?usp=drive_link)
 
 ### 🔹 QTD Dashboard  
-![QTD Dashboard](QTD%20Dashboard.jpeg)  
-![QTD Dashboard](QTD%20Dashboard-1.jpeg)
+![QTD Dashboard](https://drive.google.com/file/d/1zKkLwlPptkfyCvT3UTYb0rIj1zyiGw72/view?usp=drive_link)
+![QTD Dashboard](https://drive.google.com/file/d/1gN4Dtw7q84mD-KRidyAvPBN-jPseMlKJ/view?usp=drive_link)
 
 ### 🔹 MTD Dashboard  
-![MTD Dashboard](MTD%20Dashboard.png)  
-![MTD Dashboard](MTD%20Dashboard-1.png)
+![MTD Dashboard](https://drive.google.com/file/d/12ntf2VSlQQSsrSR2jsj874wU8-dNOp0J/view?usp=drive_link)
+![MTD Dashboard](https://drive.google.com/file/d/1ukOaVhS8Rpvp8xCvNlmeyOFTTtt8YMeb/view?usp=drive_link)
 
 ---
 
